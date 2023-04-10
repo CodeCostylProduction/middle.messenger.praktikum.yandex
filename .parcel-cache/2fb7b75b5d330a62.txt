@@ -1,4 +1,4 @@
-5316
+5300
 112C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\regions\IQ.js133250132678462715 0
 71C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\npm133250194913326841 0
 77C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\README.md133250130915371023 0
@@ -8,7 +8,7 @@
 133C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@babel\highlight\node_modules\color-convert\route.js133250132667661911 0
 105C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\supports-color\readme.md133250132666131880 0
 102C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\neo-async\nextTick.js133250135770739915 0
-72C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist133256171909695784 1
+72C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist133256175845397371 1
 85C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\send133256143451937275 1
 101C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\packager-raw133250132665641833 1
 102C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\src\static\fonts\InterFonts\static133250802084525165 1
@@ -26,7 +26,7 @@
 104C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\core\src\public133250132674951868 1
 90C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\src\pages\profile\edit133256080208417448 1
 108C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\node-addon-api\CHANGELOG.md133250132669921885 0
-73C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\.idea133256163071900178 1
+73C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\.idea133256172070883054 1
 120C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\features\png-alpha.js133250132680282704 0
 77C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\.parcelrc133250197901094892 0
 98C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\parcel\src\cli.js133250132667261889 0
@@ -62,7 +62,7 @@
 82C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\src\pages\chat133256124277171927 1
 96C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\mime-db\LICENSE133256143451127251 0
 105C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\to-regex-range\README.md133250132665531859 0
-80C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\package.json133256171823368712 0
+80C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\package.json133256174624927490 0
 71C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\src133256138553944345 1
 132C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\features\font-family-system-ui.js133250132677342668 0
 119C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\handlebars\dist\amd\handlebars\base.js133250135769909931 0
@@ -203,7 +203,6 @@
 112C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\regions\GM.js133250132677692658 0
 116C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\runtime-browser-hmr\LICENSE133250132663471858 0
 86C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\clone133250132667231920 1
-98C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\Inter-Medium.e3e7a0f0.ttf133256124283541925 0
 128C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\resolver-default\src\DefaultResolver.js133250132665111865 0
 101C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\term-size\index.d.ts133250132668441870 0
 129C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\abortcontroller-polyfill\dist\abortcontroller.js133250132667151876 0
@@ -273,7 +272,6 @@
 94C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\src\pages\404\error404.hbs133256080207627468 0
 120C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\graph\test\ContentGraph.test.js133250132668491874 0
 101C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\safer-buffer\LICENSE133256143451457246 0
-91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.6d8316c5.css133256124284317114 0
 94C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\mdn-data\l10n133250132668021849 1
 108C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\src\components\variables\_variables.scss133256085973670556 0
 97C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\tslib\tslib.d.ts133250132668511927 0
@@ -1446,7 +1444,7 @@
 125C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\transformer-postcss\src\constants.js133250132665091919 0
 109C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\neo-async\forEachOfSeries.js133250135770539945 0
 111C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\watcher\src\binding.cc133250132664931863 0
-91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.efee4c6d.css133256171909525796 0
+91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.efee4c6d.css133256175845257242 0
 125C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\features\serviceworkers.js133250132680942675 0
 114C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\type-fest\source\stringified.d.ts133250132671371865 0
 116C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\svgo\plugins\removeEditorsNSData.js133250132672131877 0
@@ -1951,12 +1949,11 @@
 111C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\regenerator-runtime\runtime.js133250132664911886 0
 129C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\handlebars\dist\amd\handlebars\helpers\lookup.js133250135771339935 0
 121C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133250132673941841 0
-91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.085e33c3.css133256171909525796 0
+91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.085e33c3.css133256175845257242 0
 102C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\readdirp\package.json133250139978209847 0
 130C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js133250132667411860 0
 128C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@swc\helpers\lib\_object_destructuring_empty.js133250132672781835 0
 121C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\features\web-serial.js133250132682212700 0
-91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.cbbd5528.css133256124497032477 0
 123C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\core\lib\requests\TargetRequest.js133250132675021858 0
 103C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\react-refresh\babel.js133250132664091917 0
 108C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\minimist\test\whitespace.js133250135770049933 0
@@ -1976,7 +1973,7 @@
 136C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js133250132666041871 0
 135C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\react-refresh\cjs\react-refresh-runtime.development.js133250132667241875 0
 114C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\features\sni.js133250132681092717 0
-87C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\.idea\workspace.xml133256163071890216 0
+87C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\.idea\workspace.xml133256172070883054 0
 95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\debug\Makefile133256143452037269 0
 136C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\handlebars\dist\cjs\handlebars\internal\proto-access.js133250135771669904 0
 138C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js133250132667561897 0
@@ -2385,7 +2382,7 @@
 108C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\neo-async\mapValuesLimit.js133250135770699927 0
 107C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\core\lib\worker.js133250132675331861 0
 101C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\neo-async\memoize.js133250135770729931 0
-91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.35864495.css133256171909525796 0
+91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.35864495.css133256175845257242 0
 98C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\neo-async\omit.js133250135770749975 0
 103C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\neo-async\omitLimit.js133250135770759931 0
 106C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\domutils\lib\stringify.js133250132668041882 0
@@ -2827,7 +2824,6 @@
 98C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\express\Readme.md133256143452347283 0
 128C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js133250135769979972 0
 120C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\json-parse-even-better-errors\README.md133250132666121885 0
-95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.d8ee6d0d.css.map133256100233835230 0
 109C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\iconv-lite\encodings\utf7.js133256143452437280 0
 101C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\reporter-cli133250132669171859 1
 99C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\js-tokens\index.js133250132664751889 0
@@ -2887,7 +2883,6 @@
 113C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\iconv-lite\encodings\internal.js133256143452057262 0
 120C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\css-tree\lib\common\OffsetToLocation.js133250132673961877 0
 103C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\domelementtype\lib\esm133250132668261871 1
-91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.d8ee6d0d.css133256100233725261 0
 124C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\iconv-lite\encodings\sbcs-data-generated.js133256143452147272 0
 119C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\runtime-service-worker\LICENSE133250132663471858 0
 108C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\iconv-lite\encodings\tables133256143452397273 1
@@ -3052,7 +3047,6 @@
 122C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\handlebars\dist\cjs\handlebars.runtime.js133250135770809935 0
 112C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\function-bind\implementation.js133256143451757253 0
 115C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\handlebars\dist\cjs\precompiler.js133250135771559921 0
-91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.3b1178a0.css133256124497082441 0
 124C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\handlebars\dist\cjs\handlebars\exception.js133250135770479917 0
 90C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\.bin\sass133250139979679830 0
 119C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\handlebars\dist\cjs\handlebars\helpers133250135771949915 1
@@ -3383,7 +3377,6 @@
 97C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\csso\lib\replace133250132672261853 1
 121C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\csso\lib\restructure\3-disjoinRuleset.js133250132665761850 0
 116C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\css-tree\lib\syntax\node\AnPlusB.js133250132665751853 0
-95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.c38d23b6.css.map133256124497122466 0
 124C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\csso\lib\restructure\4-restructShorthand.js133250132667121875 0
 117C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\transformer-css\package.json133250132666061882 0
 109C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\css-tree\lib\syntax\function133250132674731852 1
@@ -3882,7 +3875,7 @@
 112C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\regions\SZ.js133250132681412722 0
 111C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@swc\helpers\lib\_construct.js133250132671301845 0
 112C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\regions\TG.js133250132681572708 0
-91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.696903de.css133256171909525796 0
+91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.696903de.css133256175845257242 0
 112C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\regions\TJ.js133250132681602715 0
 112C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\regions\TM.js133250132681662710 0
 112C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\regions\TN.js133250132681672670 0
@@ -4132,7 +4125,6 @@
 115C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\optimizer-css\package.json133250132665881857 0
 123C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\features\input-search.js133250132678372673 0
 126C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\features\input-selection.js133250132678382682 0
-95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.7043a8f5.css.map133256124497092443 0
 126C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\features\insert-adjacent.js133250132678392707 0
 129C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\features\insertadjacenthtml.js133250132678402706 0
 131C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\caniuse-lite\data\features\internationalization.js133250132678412729 0
@@ -4816,7 +4808,7 @@
 137C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\optimizer-image\parcel-image.win32-x64-msvc.node133250132674561865 0
 126C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133250132664421954 0
 122C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\optimizer-image\lib\loadNative.js133250132664971882 0
-83C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.html133256171909515764 0
+83C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.html133256175845257242 0
 107C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@babel\highlight\README.md133250132664031864 0
 111C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\optimizer-htmlnano\lib133250132665661885 1
 115C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\@parcel\optimizer-htmlnano\LICENSE133250132663491838 0
@@ -5288,24 +5280,16 @@
 96C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\.bin\terser.cmd133250132682992712 0
 96C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\.bin\terser.ps1133250132682992712 0
 98C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\node_modules\.bin\uglifyjs.cmd133250135772129891 0
-95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.085e33c3.css.map133256171909655757 0
-90C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.09e61246.js133256171909545794 0
-94C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.09e61246.js.map133256171909665769 0
-95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.35864495.css.map133256171909655757 0
-95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.3b1178a0.css.map133256124497122466 0
-95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.696903de.css.map133256171909665769 0
-95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.6d8316c5.css.map133256124284347132 0
-91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.7043a8f5.css133256124497052456 0
-91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.95bf664e.css133256171909525796 0
-95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.95bf664e.css.map133256171909615789 0
-90C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.975ef6c8.js133256138554974296 0
-94C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.975ef6c8.js.map133256138555004253 0
-91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.c38d23b6.css133256124497082441 0
-95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.cbbd5528.css.map133256124497082441 0
-95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.efee4c6d.css.map133256171909665769 0
-98C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\Inter-Medium.de3d51e6.ttf133256171898125816 0
-103C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\photo-placeholder.599ce82a.png133256171909295752 0
-103C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\photo-placeholder.934e8d4c.png133256124284307129 0
+95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.085e33c3.css.map133256175845327319 0
+90C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.09e61246.js133256175845257242 0
+94C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.09e61246.js.map133256175845387392 0
+95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.35864495.css.map133256175845377315 0
+95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.696903de.css.map133256175845377315 0
+91C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.95bf664e.css133256175845257242 0
+95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.95bf664e.css.map133256175845327319 0
+95C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\index.efee4c6d.css.map133256175845377315 0
+98C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\Inter-Medium.de3d51e6.ttf133256175831449516 0
+103C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\dist\photo-placeholder.599ce82a.png133256175832079489 0
 81C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\app\server.js133256162592390666 0
 84C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\.idea\.gitignore133250126692749848 0
 92C:\Users\79257\Desktop\mfd-yandex\middle.messenger.praktikum.yandex\.idea\inspectionProfiles133254362020352614 1

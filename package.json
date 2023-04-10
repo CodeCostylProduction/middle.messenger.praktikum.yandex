@@ -7,7 +7,7 @@
     "not dead"
   ],
   "scripts": {
-    "start": "node ./app/server.js",
+    "start": "parcel src/static/index.html",
     "build": "parcel build src/static/index.html",
     "sass": "sass --watch input.scss output.css"
   },
