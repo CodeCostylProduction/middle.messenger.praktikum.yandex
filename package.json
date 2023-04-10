@@ -2,7 +2,6 @@
   "name": "middle.messenger.praktikum.yandex",
   "version": "1.0.0",
   "description": "web app chat by the middle-frontend course",
-  "main": "/index.js",
   "browserslist": [
     "> 1%",
     "not dead"
