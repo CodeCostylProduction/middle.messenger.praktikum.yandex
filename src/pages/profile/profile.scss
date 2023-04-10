@@ -1,0 +1,213 @@
+@import 'src/components/variables/variables';
+@import '../404/style';
+@import 'src/pages/register/signIn';
+
+
+.profile-page-content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  font-weight: $weight-medium;
+
+
+  .profile-page-content__button {
+    width: 50px;
+    height: 100%;
+    padding: 0;
+  }
+}
+
+.button__navigation-left-button {
+  border-right: 1px solid $color-stroke;
+  background-color: $color-background-light;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile {
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar {
+  background: $color-background-logo url('../../static/assets/icons/photo-placeholder.png') center no-repeat;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  margin-bottom: 21px;
+  position: relative;
+
+  .avatar__placeholder-text {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background-color: $color-modal-background;
+    visibility: hidden;
+    border-radius: 50%;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 130px;
+    font-size: 13px;
+    color: transparent;
+  }
+
+  .avatar__placeholder-text::-webkit-file-upload-button {
+    display: none;
+  }
+
+  .avatar__placeholder-text::-moz-file-upload-button {
+    display: none;
+  }
+
+  .avatar__placeholder-text::before {
+    content: attr(placeholder);
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+
+  .avatar__placeholder-text {
+    visibility: visible;
+  }
+}
+
+.profile__account-name {
+  color: $color-text-primary;
+  font-size: 16px;
+  text-align: center;
+  font-weight: $weight-hard;
+}
+
+.user-data, .button-stripe-block {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: 525px;
+  font-size: 13px;
+
+  .user-data__field {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 0;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid $color-stroke;
+    }
+
+    &:last-child {
+      margin-bottom: 60px;
+    }
+
+    .user-data-field__title {
+      color: $color-text-primary;
+      text-align: left;
+    }
+
+    .user-data-field__text-field,
+    .user-data-field__text-field:hover,
+    .user-data-field__text-field:active,
+    .user-data-field__text-field:focus {
+      color: $color-text-label;
+      border: none;
+      text-align: right;
+      pointer-events: none;
+    }
+
+    .user-data-field__text-field__active {
+      pointer-events: auto;
+    }
+  }
+}
+
+.profile__button-block {
+  padding: 0;
+
+  .button__cell {
+    padding: 10px 0;
+    text-align: left;
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid $color-stroke;
+    }
+  }
+
+  .button__сell__primary {
+    color: $color-primary;
+  }
+
+  .button__сell__danger {
+    color: $color-danger;
+  }
+}
+
+.modal-fade {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  overflow: hidden;
+  overflow-y: auto;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  z-index: 9000;
+  padding: 10px 0;
+  background: $color-modal-background;
+  display: none;
+
+  .modal-fade__window {
+    width: 340px;
+    height: 257px;
+    transition: transform 0.15s ease 0s, opacity 0.15s ease 0s;
+    transform: scale(1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: $color-background;
+    border-radius: 12px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.14);
+
+
+    .window__title {
+      text-align: center;
+      font-size: 15px;
+      line-height: 20px;
+      color: $color-text-primary;
+      margin-bottom: 43px;
+    }
+
+    .window__title__danger {
+      color: $color-text-danger;
+    }
+
+    .window__uploader {
+      color: $color-primary;
+      cursor: pointer;
+      text-decoration: underline;
+      margin-bottom: 45px;
+    }
+
+    .window__button {
+      width: 280px;
+      margin-bottom: 14px;
+    }
+  }
+}
+
+.modal-fade__active {
+  display: flex;
+}

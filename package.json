@@ -1,0 +1,42 @@
+{
+  "name": "middle.messenger.praktikum.yandex",
+  "version": "1.0.0",
+  "description": "web app chat by the middle-frontend course",
+  "main": "/index.js",
+  "browserslist": [
+    "> 1%",
+    "not dead"
+  ],
+  "scripts": {
+    "start": "node ./app/server.js",
+    "build": "parcel build src/static/index.html",
+    "sass": "sass --watch input.scss output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeCostylProduction/middle.messenger.praktikum.yandex.git"
+  },
+  "keywords": [],
+  "author": "Starostin Vladislav Olegovich (starostin039@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeCostylProduction/middle.messenger.praktikum.yandex/issues"
+  },
+  "homepage": "https://github.com/CodeCostylProduction/middle.messenger.praktikum.yandex#readme",
+  "devDependencies": {
+    "@parcel/config-default": "^2.8.3",
+    "@parcel/resolver-default": "^2.8.3",
+    "@parcel/transformer-sass": "^2.8.3",
+    "express": "^4.18.2",
+    "parcel": "^2.8.3",
+    "parcel-transformer-hbs": "^1.0.4"
+  },
+  "dependencies": {
+    "@parcel/core": "^2.8.3",
+    "handlebars": "^4.7.7",
+    "sass": "^1.60.0"
+  },
+  "engines": {
+    "node": ">12.0.0"
+  }
+}
