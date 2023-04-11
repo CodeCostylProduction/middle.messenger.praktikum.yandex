@@ -1,0 +1,53 @@
+<main class="profile-page-content">
+    <div class="profile-page-content__button button button__navigation-left-button">
+        <span class="button__icon"><svg width="28" height="28" viewBox="0 0 28 28" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+        <circle cx="14" cy="14" r="14" transform="rotate(-180 14 14)" fill="#3369F3"/>
+        <rect x="20" y="14.8" width="11" height="1.6" transform="rotate(-180 20 14.8)" fill="white"/>
+        <path d="M13 19L9 14L13 9" stroke="white" stroke-width="1.6"/>
+        </svg>
+        </span>
+    </div>
+    <div class="content__profile profile">
+        <div class="profile__avatar-container avatar">
+            <div class="avatar__user-logo"></div>
+            <input type="file" class="avatar__placeholder-text" placeholder="Поменять аватар" name="avatar">
+        </div>
+        <div class="profile__account-name">Иван</div>
+        <form class="profile__account-data user-data">
+            <div class="user-data__field">
+                <div class="user-data-field__title">Почта</div>
+                <input type="text" class="user-data-field__text-field user-data-field__text-field__active" placeholder="pochta@yandex.ru" name="email">
+            </div>
+            <div class="user-data__field">
+                <div class="user-data-field__title">Логин</div>
+                <input type="text" class="user-data-field__text-field user-data-field__text-field__active" placeholder="ivanivanov" name="login">
+            </div>
+            <div class="user-data__field">
+                <div class="user-data-field__title">Имя</div>
+                <input type="text" class="user-data-field__text-field user-data-field__text-field__active" placeholder="Иван" name="first_name">
+            </div>
+            <div class="user-data__field">
+                <div class="user-data-field__title">Фамилия</div>
+                <input type="text" class="user-data-field__text-field user-data-field__text-field__active" placeholder="Иванов" name="second_name">
+            </div>
+            <div class="user-data__field">
+                <div class="user-data-field__title">Имя в чате</div>
+                <input type="text" class="user-data-field__text-field user-data-field__text-field__active" placeholder="Иван" name="display_name">
+            </div>
+            <div class="user-data__field">
+                <div class="user-data-field__title">Телефон</div>
+                <input type="text" class="user-data-field__text-field user-data-field__text-field__active" placeholder="+79099673030" name="phone">
+            </div>
+        </form>
+        <div class="button button__primary">Сохранить</div>
+    </div>
+</main>
+<section class="modal-fade" id="profileModal">
+    <div class="modal-fade__window window">
+        <div class="window__title window__title__danger">Загрузите файл</div>
+        <div class="window__uploader">Выбрать файл на компьютере</div>
+        <div class="window__button button button__primary">Поменять</div>
+        <span class="window__error-text window__error-text__active">Нужно выбрать файл</span>
+    </div>
+</section>
