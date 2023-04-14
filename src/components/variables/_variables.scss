@@ -1,0 +1,28 @@
+$color-text-primary: #1e1e1e;
+$color-modal-background: rgba(0,0,0,0.4);
+$color-avatar-background: rgba(0,0,0,0.5);
+$color-primary: #3369F3;
+$color-active-item: #E4EDFD;
+$color-danger: #ff0000;
+$color-background: #ffffff;
+$color-text-label: #999999;
+$color-text-danger: #ff2f2f;
+$color-stroke: #eaeaea;
+$color-background-light: #fbfbfb;
+$color-background-logo: #efefef;
+$color-received-msg-background: #f8f8f8;
+
+
+$box-shadow-modal: 0 0 6px rgba(0, 0, 0, 0.14);
+$weight-thin: 100;
+$weight-regular: 400;
+$weight-medium: 500;
+$weight-hard: 600;
+$weight-strong: 700;
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  src: local('Inter'),
+  url(../../static/fonts/InterFonts/static/Inter-Medium.ttf) format('ttf');
+}

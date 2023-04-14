@@ -1,0 +1,107 @@
+@import 'src/components/variables/variables';
+@import '../404/style';
+
+.sign-in-content {
+  margin: auto;
+  width: 26.5%;
+  min-height: 85.4%;
+  display: flex;
+  justify-content: center;
+  color: $color-text-primary;
+
+  .sign-in-content__form {
+    box-sizing: border-box;
+    height: 90%;
+    box-shadow: $box-shadow-modal;
+    width: 90%;
+    border-radius: 12px;
+    padding: 5%;
+  }
+}
+
+.register-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  .register-block__header {
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .register-block__form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+}
+
+.form {
+  width: 100%;
+  margin-bottom: 2em;
+
+  .form__field {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.field {
+  padding: 0;
+
+  .field__label {
+    font-size: 9px;
+    color: $color-text-label;
+    margin-bottom: 8px;
+  }
+
+  .field__text-field {
+    border: none;
+    border-bottom: 2px solid $color-primary;
+    //margin-bottom: 8px;
+    width: 100%;
+  }
+}
+
+.field__error-text, .window__error-text {
+  visibility: hidden;
+  color: $color-text-danger;
+  font-weight: $weight-regular;
+  font-size: 9px;
+  //margin-bottom: 8px;
+}
+
+.field__error-text__active, .window__error-text__active {
+  visibility: visible;
+}
+
+.register-block__button {
+  width: 100%;
+}
+
+.button {
+  box-sizing: border-box;
+  border-radius: 8px;
+  font-size: 13px;
+  text-align: center;
+  padding: 12px 70px;
+  cursor: pointer;
+}
+
+.button__primary {
+  background-color: $color-primary;
+  color: $color-background;
+}
+
+.button__secondary {
+  background-color: $color-background;
+  color: $color-primary;
+  font-size: 11px;
+}
+
+.button__light {
+  color: $color-text-label;
+  background-color: inherit;
+}
